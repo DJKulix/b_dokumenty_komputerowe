@@ -131,3 +131,6 @@ Nie są widoczne na wydruku, ale wpływają na układ dokumentu.
 4. Z pliku `praca.docx` skopiuj wstęp do nowego dokumentu. Podziel go na trzy strony. Na każdej z nich ustaw inne marginesy.
 
 5. W pliku `zestawienie.xlsx` stwórz wykres kolumnowy z danych. Dodaj wykres oraz tabelę do dokumentu, ustawiająco poziomą orientację strony.
+
+
+![alt text](office.jpg)
