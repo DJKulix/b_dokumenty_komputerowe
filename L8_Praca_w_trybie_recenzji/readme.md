@@ -1,0 +1,1 @@
+# Śledzenie zmian i tryb recenzji w Microsoft Word
