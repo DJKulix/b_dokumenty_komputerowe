@@ -1,3 +1,5 @@
+Link do szablobnu: https://edu.exceedlms.com/student/path/1606823/activity/3186810
+
 1. Zaloguj się na konto googla
 2. Otwórz projekt startowy z linku
 3. Skopiuj i zmień nazwę
